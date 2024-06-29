@@ -1,0 +1,6 @@
+D:\07.CAD API\Study\TraningCAdAPi\TraningCAdAPi\bin\Debug\TraningCAdAPi.dll
+D:\07.CAD API\Study\TraningCAdAPi\TraningCAdAPi\bin\Debug\TraningCAdAPi.pdb
+D:\07.CAD API\Study\TraningCAdAPi\TraningCAdAPi\obj\Debug\TraningCAdAPi.csproj.AssemblyReference.cache
+D:\07.CAD API\Study\TraningCAdAPi\TraningCAdAPi\obj\Debug\TraningCAdAPi.csproj.CoreCompileInputs.cache
+D:\07.CAD API\Study\TraningCAdAPi\TraningCAdAPi\obj\Debug\TraningCAdAPi.dll
+D:\07.CAD API\Study\TraningCAdAPi\TraningCAdAPi\obj\Debug\TraningCAdAPi.pdb
