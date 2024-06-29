@@ -1,0 +1,8 @@
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\obj\Debug\AutoBlockExtractor.csproj.AssemblyReference.cache
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\obj\Debug\AutoBlockExtractor.BlockExtractorForm.resources
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\obj\Debug\AutoBlockExtractor.csproj.GenerateResource.cache
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\obj\Debug\AutoBlockExtractor.csproj.CoreCompileInputs.cache
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\bin\Debug\AutoBlockExtractor.dll
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\bin\Debug\AutoBlockExtractor.pdb
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\obj\Debug\AutoBlockExtractor.dll
+D:\07.CAD API\Study\AutoBlockExtractor\AutoBlockExtractor\obj\Debug\AutoBlockExtractor.pdb
